@@ -1,3 +1,5 @@
 
 node_model
-
+.idea
+.vscode
+.DS_store
