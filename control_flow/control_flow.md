@@ -1,10 +1,16 @@
 # Control Flow
 
+---
+
 Domyslnie Prtogram jest wykonynwany 
 od góry do dołu instrukcja po instrukcji, 
 od lewej do prawej.
 
+---
+
 ## Conditions (if, switch)
+
+---
 - wykonanie zbioru instrukcji bądz nie.
 
 ```js
@@ -33,15 +39,17 @@ switch (value){
         //condition === 'b'
         break;
     default:
-        condition !== 'a' and condition !== 'b'
+        //condition !== 'a' and condition !== 'b'
 }
 
 ```
 
 ## Loops (for, for in, for of, while, do while)
+
+---
 - wykonanie zbioru instrukcji zero lub więcej razy.
-- for kiedy wiemy ile iteracji (najczęściej iterujemy po kolecjach)
-- while kiedy nie wiemy ile razy (oparte o warunek)
+- for - kiedy wiemy ile iteracji (najczęściej iterujemy po kolecjach)
+- while - kiedy nie wiemy ile razy (oparte o warunek)
 ```js
 
 for (let i = 0; condition; i++) {

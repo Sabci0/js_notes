@@ -1,15 +1,19 @@
 # Function 
+
+---
 - named
 - anonumus
   -  classic
   -  arrow functions
 
-
 ---
+###### Funkcje dają nam reużywalność kodu. Czyli blok kodu, który chcemy wywołać po identyfikatorze, można go sparametryzować i zwrócić wartość.
 
 
 
 ## Namef functions
+
+---
 
 ```js
 
